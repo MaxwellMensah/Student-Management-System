@@ -1,1 +1,1 @@
-web:gunicorn Student-Management-System.wsgi --log-file -
+web: gunicorn Student-Management-System.wsgi --log-file -
